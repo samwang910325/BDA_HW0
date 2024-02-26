@@ -1,0 +1,70 @@
+{
+    "spotify.mp4": [
+        {
+            "start_frame": 35,
+            "end_frame": 53,
+            "action_type": "click",
+            "down_coordinate": [34.8, 32.4],
+            "up_coordinate": [34.8, 32.4],
+            "type_word": null
+        },
+        {
+            "start_frame": 105,
+            "end_frame": 133,
+            "action_type": "swipe",
+            "down_coordinate": [63.7, 51.6], 
+            "up_coordinate": [63.7, 37.0],
+            "type_word": null
+        },
+        {
+            "start_frame": 159,
+            "end_frame": 178,
+            "action_type": "click",
+            "down_coordinate": [64.4, 87.3],
+            "up_coordinate": [64.4, 87.3],
+            "type_word": null
+        },
+        {
+            "start_frame": 287,
+            "end_frame": 293,
+            "action_type": "click",
+            "down_coordinate": [52.6, 82.8],
+            "up_coordinate": [52.6, 82.8],
+            "type_word": null
+        }
+    ],
+    "line.mp4": [
+        {
+            "start_frame": 28,
+            "end_frame": 56,
+            "action_type": "click",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "Hihi"
+        },
+        {
+            "start_frame": 113,
+            "end_frame": 116,
+            "action_type": "click",
+            "down_coordinate": [93.1, 56.8],
+            "up_coordinate": [93.1, 56.8],
+            "type_word": null
+        },
+        {
+            "start_frame": 230,
+            "end_frame": 238,
+            "action_type": "click",
+            "down_coordinate": [79.0, 57.0],
+            "up_coordinate": [79.0, 57.0],
+            "type_word": null
+        },
+        {
+            "start_frame": 290,
+            "end_frame": 294,
+            "action_type": "click",
+            "down_coordinate": [6.3, 79.7],
+            "up_coordinate":[6.3, 79.7],
+            "type_word": null
+        }
+    ]
+}
